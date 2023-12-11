@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @davpea (David J Pearson), I'm based in the UK, I work at Red Hat as a Senior Ecosystem Solution Architect.
-- 👀 I’m interested in technology in general and especially systems programming and API's.. most of my content on GitHub relates to my continuous learning, tinkering with code, generally being a geek (or should that be technologist).
+- 👋 Hi, I’m @davpea (David Pearson), I'm based in the UK, I work at Red Hat as a Solution Architect.
+- 👀 I’m interested in technology in general and especially open source, systems programming and API's.. most of my content on GitHub relates to my continuous learning, tinkering with code, generally being a geek (or should that be technologist).
 - 🌱 I’m currently improving my GO skills and intereested in contributing to up stream projects 
 - 📫 You can reach my via Mastodon (@davpea@mastodon.social) or LinkedIn (https://www.linkedin.com/in/davpea/)
 
