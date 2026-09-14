@@ -3,7 +3,7 @@
   
 - 👨🏻‍💻 As a developer, I like building apps with SwiftUi & Swiftlang, working with developer portals (Backstage), virtualisation, microservices (containers), AI (Vibe coding, MCP etc) systems programming and API's.. most of my content on GitHub relates to my continuous learning, tinkering with code, generally being a hobbyist / geek (or should that be technologist).
   
-- 🌱 Outside work, I love working with Apple XCode and learning how to improve my skills with the Swift / SwiftUI language .. away from technology, I'm a [West Ham Utd]([url](https://www.whufc.com/en)) fan ⚒️ (long story).  My other interests include reading 📚, [parapsychology]([url](https://en.wikipedia.org/wiki/Parapsychology)) 👻, I’m also a steering group member of the BCS Kent branch.
+- 🌱 Hobbies... I love working with Apple XCode and learning how to improve my skills with the Swift / SwiftUI language .. away from technology, I'm a [West Ham Utd]([url](https://www.whufc.com/en)) fan ⚒️ (long story).  My other interests include reading 📚, [parapsychology]([url](https://en.wikipedia.org/wiki/Parapsychology)) 👻, I’m also a Chartered Engineer (CEng), and member of both the [BCS](https://www.bcs.org/) and [IET](https://www.theiet.org/) in the UK. .
   
 - 📫 You can reach my via my blog (https://davpears.blog) or on social media at X/twitter (https://twitter.com/davpears) or LinkedIn (https://www.linkedin.com/in/davpea/)
 
